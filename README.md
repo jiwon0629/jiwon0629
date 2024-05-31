@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 ## Study  
  - [Dart를 이용한 날씨 앱](https://github.com/jiwon0629/weatherApp)
  - [Android Studio를 이용한 졸업조건 앱](https://github.com/jiwon0629/Conditions-for-Graduations-App)
+ - [XD를 이용한 UI디자인](https://github.com/jiwon0629/UIdesign)
+
+## Project  
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)
 
