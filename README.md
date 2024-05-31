@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 <a href="mailto:(youjiwon1116@gmail.com)" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 </a>
+<a href="https://www.instagram.com/xerosix_won/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+</a>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
