@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 <hr>
 
-## Study  
+## Project  
  - [Dart를 이용한 날씨 앱](https://github.com/jiwon0629/weatherApp)
  - [Android Studio를 이용한 졸업조건 앱](https://github.com/jiwon0629/Conditions-for-Graduations-App)
- - [XD를 이용한 UI디자인](https://github.com/jiwon0629/UIdesign)
 
 ## AI_Project  
  - [Drone Detact Model](https://github.com/jiwon0629/yolov5_Drone)
@@ -30,6 +29,14 @@ Here are some ideas to get you started:
  - [Smoke Detact Model](https://github.com/jiwon0629/AI_Model/blob/main/%EC%97%B0%EA%B8%B0%ED%83%90%EC%A7%80.ipynb)
  - [Teachable Machine](https://github.com/jiwon0629/TeachableMachine)
  - [Web App](https://github.com/jiwon0629/webApp02)
+
+## Robot
+ - [yolov5를 이용한 Native App(동작)](https://github.com/jiwon0629/NativeAppYoloCustom)
+ - [yolov5를 이용한 Native App(TTS)](https://github.com/jiwon0629/NativeAppYoloCustom_TTS)
+
+## Study
+ - [XD를 이용한 UI디자인](https://github.com/jiwon0629/UIdesign)
+ - 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)
