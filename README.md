@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on KNU
 - 🌱 I’m currently learning 💻
+- 📫 How to reach me: wjy_1116@naver.com  
 <a href="mailto:(youjiwon1116@gmail.com)" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-ff0000?style=flat-square&logo=Gmail&logoColor=white"/> 
 </a>
