@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on KNU
 - 🌱 I’m currently learning 💻
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="mailto:(youjiwon1116@gmail.com)" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-ff0000?style=flat-square&logo=Gmail&logoColor=white"/> 
+</a>
+<a href="https://www.instagram.com/xerosix_won/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+</a>
 
 <hr>
 
@@ -41,12 +41,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)  
 
-<a href="mailto:(youjiwon1116@gmail.com)" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-ff0000?style=flat-square&logo=Gmail&logoColor=white"/> 
-</a>
-<a href="https://www.instagram.com/xerosix_won/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
-</a>
+
 
 
 
