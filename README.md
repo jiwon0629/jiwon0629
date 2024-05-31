@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## Project  
- - [Dart를 이용한 날씨 앱](https://github.com/jiwon0629/weatherApp)
+ - [Flutter를 이용한 날씨 앱](https://github.com/jiwon0629/weatherApp)
  - [Android Studio를 이용한 졸업조건 앱](https://github.com/jiwon0629/Conditions-for-Graduations-App)
 
 ## AI_Project  
