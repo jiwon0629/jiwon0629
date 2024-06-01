@@ -20,7 +20,7 @@
 ## Project  
  - [Flutter를 이용한 날씨 앱](https://github.com/jiwon0629/weatherApp)
  - [Android Studio를 이용한 졸업조건 앱](https://github.com/jiwon0629/Conditions-for-Graduations-App)
- - [Delivery Box](https://github.com/jiwon0629/AI_Box)  
+ - [택배 감지 프로그램](https://github.com/jiwon0629/AI_Box)  
 
 ## AI_Project  
  - [Drone Detact Model](https://github.com/jiwon0629/yolov5_Drone)
