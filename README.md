@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
 </a>
 
-<hr>
+
 
 ## Project  
  - [Flutter를 이용한 날씨 앱](https://github.com/jiwon0629/weatherApp)
