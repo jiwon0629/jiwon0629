@@ -41,6 +41,7 @@
  - [강의 자료](https://github.com/jiwon0629/StudyResource)
  - [Flutter 공부](https://github.com/jiwon0629/FlutterStudy)
  - [Android 공부](https://github.com/jiwon0629/AndroidStudy)
+ - [정보처리기사]()
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)  
