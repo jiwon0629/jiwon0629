@@ -37,7 +37,8 @@
 ## Study
  - [XD를 이용한 UI디자인](https://github.com/jiwon0629/UIdesign)
  - [Python 개발환경](https://github.com/jiwon0629/python_basic)
- - [주소록 관리 프로그램](https://github.com/jiwon0629/AddressBook/tree/main)  
+ - [주소록 관리 프로그램](https://github.com/jiwon0629/AddressBook/tree/main)
+ - [자료](https://github.com/jiwon0629/StudyResource)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)  
