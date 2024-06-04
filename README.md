@@ -1,13 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hello" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hello" />  
 
-## Hi there 👋
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>  
+
+## Hi there 👋  
 
 
 
 
 - 🔭 I’m currently working on KNU
 - 🌱 I’m currently learning 💻
-- 📫 How to reach me : wjy_1116@naver.com  
+- 📫 How to reach me : wjy_1116@naver.com
+
 <a href="mailto:(youjiwon1116@gmail.com)" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-ff0000?style=flat-square&logo=Gmail&logoColor=white"/> 
 </a>
