@@ -24,7 +24,7 @@
  - [ Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)
  - [ Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations-App)
  - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
- - [ 헬스장 회원 DB 관리 프로그램 ]()
+ - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)
  - [ BFS알고리즘 최단 경로 프로그램 ]()  
 
 ## AI_Project  
