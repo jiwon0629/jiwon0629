@@ -6,7 +6,6 @@
 
 
 
-
 - 🔭 I’m currently working on KNU
 - 🌱 I’m currently learning 💻
 - 📫 How to reach me : wjy_1116@naver.com
