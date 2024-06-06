@@ -17,7 +17,14 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
 </a>
 
-
+## Study
+ - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
+ - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
+ - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
+ - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
+ - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
+ - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
+ - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)  
 
 ## Project  
  - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
@@ -38,14 +45,7 @@
  - [ yolov5를 이용한 Native App(동작) ](https://github.com/jiwon0629/NativeAppYoloCustom)
  - [ yolov5를 이용한 Native App(TTS) ](https://github.com/jiwon0629/NativeAppYoloCustom_TTS)
 
-## Study
- - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
- - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
- - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
- - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
- - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
- - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
- - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)  
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)  
