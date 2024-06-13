@@ -51,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0629)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-
+<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
