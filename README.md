@@ -24,7 +24,8 @@
  - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
  - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
  - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
- - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)  
+ - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)
+ - [ 토익 공부 ](https://github.com/jiwon0629/English)
 
 ## Project  
  - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
