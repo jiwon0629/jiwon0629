@@ -36,6 +36,7 @@
 
 ## AI_Project  
  - [ Drone Detact Model ](https://github.com/jiwon0629/yolov5_Drone)
+ - [ Parking Detact Model ](https://github.com/jiwon0629/PKLot-Detact-Model)
  - [ Pot hole Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/pothole%ED%83%90%EC%A7%80.ipynb)
  - [ Hard Hat Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/%EC%95%88%EC%A0%84%EB%AA%A8%ED%83%90%EC%A7%80.ipynb)
  - [ Smoke Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/%EC%97%B0%EA%B8%B0%ED%83%90%EC%A7%80.ipynb)
