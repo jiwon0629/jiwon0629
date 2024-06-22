@@ -18,7 +18,7 @@
 </a>
 
 ## Study
- - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
+ - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign) (완료)
  - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
  - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
  - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
