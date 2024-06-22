@@ -18,21 +18,21 @@
 </a>
 
 ## Study
- - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)(완료)
- - [ Python 공부 ](https://github.com/jiwon0629/python_basic)(진행중)
- - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)(완료)
+ - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
+ - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
+ - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
  - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
- - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)(완료)
- - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)(완료)
- - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)(완료)
- - [ 토익 공부 ](https://github.com/jiwon0629/English)(진행중)
+ - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
+ - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
+ - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)
+ - [ 토익 공부 ](https://github.com/jiwon0629/English)
 
 ## Project  
- - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)(2024년 완료)
- - [ Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)(2023년 완료)
- - [ Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations-App)(2023년 완료)  
- - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)(2022년 완료)
- - [ BFS알고리즘 최단 경로 프로그램 ](https://github.com/jiwon0629/Algorithm_Project)(2022년 완료)  
+ - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
+ - [ Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)
+ - [ Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations-App)  
+ - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)
+ - [ BFS알고리즘 최단 경로 프로그램 ](https://github.com/jiwon0629/Algorithm_Project)
 
 ## AI_Project  
  - [ Drone Detact Model ](https://github.com/jiwon0629/yolov5_Drone)
