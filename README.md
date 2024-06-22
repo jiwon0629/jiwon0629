@@ -19,13 +19,13 @@
 
 ## Study
  - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)(완료)
- - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
- - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
+ - [ Python 공부 ](https://github.com/jiwon0629/python_basic)(진행중)
+ - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)(완료)
  - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
- - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
- - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
- - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)
- - [ 토익 공부 ](https://github.com/jiwon0629/English)
+ - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)(완료)
+ - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)(완료)
+ - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)(완료)
+ - [ 토익 공부 ](https://github.com/jiwon0629/English)(진행중)
 
 ## Project  
  - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
