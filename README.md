@@ -44,8 +44,8 @@
  - [ Web App ](https://github.com/jiwon0629/webApp02)
 
 ## Robot
- - [ yolov5를 이용한 Native App(동작) ](https://github.com/jiwon0629/NativeAppYoloCustom)
- - [ yolov5를 이용한 Native App(TTS) ](https://github.com/jiwon0629/NativeAppYoloCustom_TTS)
+ - [ yolov5를 이용한 Native App - 동작 ](https://github.com/jiwon0629/NativeAppYoloCustom)
+ - [ yolov5를 이용한 Native App - TTS ](https://github.com/jiwon0629/NativeAppYoloCustom_TTS)
 
 ## 
 
