@@ -26,6 +26,7 @@
  - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
  - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing)
  - [ 토익 공부 ](https://github.com/jiwon0629/English)
+   
 
 ## Project  
  - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
@@ -33,6 +34,7 @@
  - [ Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations-App)  
  - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)
  - [ BFS알고리즘 최단 경로 프로그램 ](https://github.com/jiwon0629/Algorithm_Project)
+ - [ Bitcoin ] (2024.06.24. ~ 진행중)
 
 ## AI_Project  
  - [ Drone Detact Model ](https://github.com/jiwon0629/yolov5_Drone)
