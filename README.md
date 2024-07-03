@@ -48,7 +48,7 @@
 ## Robot
  - [ yolov5를 이용한 Native App - 동작 ](https://github.com/jiwon0629/NativeAppYoloCustom)
  - [ yolov5를 이용한 Native App - TTS ](https://github.com/jiwon0629/NativeAppYoloCustom_TTS)
- - [ 로봇 강아지 가이드 ](https://github.com/jiwon0629/GuideRobot) (2024.06.24. ~ 진행중)
+ - [ 로봇 반려견 ](https://github.com/jiwon0629/GuideRobot) (2024.06.24. ~ 진행중)
 
 ## 
 
