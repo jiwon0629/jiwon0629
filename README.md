@@ -26,6 +26,7 @@
  - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
  - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing) (2024.01.01. ~ 2024.04.27.)
  - [ 토익 공부 ](https://github.com/jiwon0629/English)
+ - [ SQLD ](https://github.com/jiwon0629/sqld)  
    
 
 ## Project  
