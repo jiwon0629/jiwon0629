@@ -18,6 +18,7 @@
 </a>
 
 ## Study
+ - [ 알고리즘 공부 ](https://github.com/jiwon0629/Algorithm)  
  - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
  - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
  - [ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
