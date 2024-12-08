@@ -18,6 +18,7 @@
 </a>
 
 ## Study
+ - [ 백준 알고리즘 ](https://github.com/jiwon0629/BaekJoon)  
  - [ 알고리즘 공부 ](https://github.com/jiwon0629/Algorithm)  
  - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
  - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
