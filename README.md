@@ -70,10 +70,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiwon0629&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-.
+
 ## 
 
-<img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
