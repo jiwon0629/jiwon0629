@@ -38,7 +38,7 @@
  - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)(2022.09 ~ 2022.12)  
  - [ BFS알고리즘 최단 경로 프로그램 ](https://github.com/jiwon0629/Algorithm_Project)(2022.09 ~ 2022.12)  
 
-## AI_Project  
+## AI_Modeling_Project  
  - [ Drone Detact Model ](https://github.com/jiwon0629/yolov5_Drone)
  - [ Parking Detact Model ](https://github.com/jiwon0629/PKLot-Detact-Model)
  - [ Pot hole Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/pothole%ED%83%90%EC%A7%80.ipynb)
