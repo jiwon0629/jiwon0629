@@ -32,7 +32,6 @@
    
 
 ## Project  
- - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)  
  - [ Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)(2023.06 ~ 2023.07)  
  - [ Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations_App)(2023.03 ~ 2023.12)  
  - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)(2022.09 ~ 2022.12)  
@@ -46,6 +45,7 @@
  - [ Smoke Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/%EC%97%B0%EA%B8%B0%ED%83%90%EC%A7%80.ipynb)
  - [ Teachable Machine ](https://github.com/jiwon0629/TeachableMachine)
  - [ Web App ](https://github.com/jiwon0629/webApp02)
+ - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)  
 
 ## Robot
  - [ yolov5를 이용한 Native App - 동작 ](https://github.com/jiwon0629/NativeAppYoloCustom)
