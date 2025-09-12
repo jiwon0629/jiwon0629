@@ -18,16 +18,16 @@
 </a>
 
 ## ✍️ Study
- - [ 백준 알고리즘 ](https://github.com/jiwon0629/BaekJoon)  
- - [ 알고리즘 공부 ](https://github.com/jiwon0629/Algorithm)  
- - [ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
- - [ Python 공부 ](https://github.com/jiwon0629/python_basic)
- - [ 강의 자료 ](https://github.com/jiwon0629/StudyResource)
- - [ Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
- - [ Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
- - [ 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing) (2024.01.01. ~ 2024.04.27.)
- - [ 토익 공부 ](https://github.com/jiwon0629/English)
- - [ SQLD ](https://github.com/jiwon0629/sqld)  
+ - [ 📘 백준 알고리즘 ](https://github.com/jiwon0629/BaekJoon)  
+ - [ 📘 알고리즘 공부 ](https://github.com/jiwon0629/Algorithm)  
+ - [ 📘 Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)
+ - [ 📘 Python 공부 ](https://github.com/jiwon0629/python_basic)
+ - [ 📘 강의 자료 ](https://github.com/jiwon0629/StudyResource)
+ - [ 📘 Flutter 공부 ](https://github.com/jiwon0629/FlutterStudy)
+ - [ 📘 Android 공부 ](https://github.com/jiwon0629/AndroidStudy)
+ - [ 📘 정보처리기사 ](https://github.com/jiwon0629/EngineerInformationProcessing) (2024.01.01. ~ 2024.04.27.)
+ - [ 📘 토익 공부 ](https://github.com/jiwon0629/English)
+ - [ 📘 SQLD ](https://github.com/jiwon0629/sqld)  
    
 
 ## 📂 Project  
