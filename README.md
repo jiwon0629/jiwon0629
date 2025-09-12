@@ -32,8 +32,8 @@
    
 
 ## Project  
- - [ Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)(2023.06 ~ 2023.07)  
- - [ Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations_App)(2023.03 ~ 2023.12)  
+ - [ 📱 Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)(2023.06 ~ 2023.07)  
+ - [ 📱 Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations_App)(2023.03 ~ 2023.12)  
  - [ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)(2022.09 ~ 2022.12)  
  - [ BFS알고리즘 최단 경로 프로그램 ](https://github.com/jiwon0629/Algorithm_Project)(2022.09 ~ 2022.12)  
 
