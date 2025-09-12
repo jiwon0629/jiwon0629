@@ -34,7 +34,8 @@
  - [ 📱 Android Studio를 이용한 졸업조건 앱 ](https://github.com/jiwon0629/Conditions-for-Graduations_App)(2023.03 ~ 2023.12)  
  - [ 🖥️ 헬스장 회원 DB 관리 프로그램 ](https://github.com/jiwon0629/DB_Project)(2022.09 ~ 2022.12)  
  - [ 🖥️ BFS알고리즘 최단 경로 프로그램 ](https://github.com/jiwon0629/Algorithm_Project)(2022.09 ~ 2022.12)
- - [ 🖥️ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)  
+ - [ 🖥️ 주소록 관리 프로그램 ](https://github.com/jiwon0629/AddressBook/tree/main)
+ - [ 🖥️ Adobe Xd를 이용한 UI디자인 ](https://github.com/jiwon0629/UIdesign)  
 
 ## 📊 AI_Modeling_Project  
  - [ 🚁 Drone Detact Model ](https://github.com/jiwon0629/yolov5_Drone)
