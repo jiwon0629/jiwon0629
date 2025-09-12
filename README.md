@@ -42,7 +42,7 @@
  - [ Parking Detact Model ](https://github.com/jiwon0629/PKLot-Detact-Model)
  - [ Pot hole Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/pothole%ED%83%90%EC%A7%80.ipynb)
  - [ Hard Hat Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/%EC%95%88%EC%A0%84%EB%AA%A8%ED%83%90%EC%A7%80.ipynb)
- - [ Smoke Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/%EC%97%B0%EA%B8%B0%ED%83%90%EC%A7%80.ipynb)
+ - [ 🔥 Smoke Detact Model ](https://github.com/jiwon0629/AI_Model/blob/main/%EC%97%B0%EA%B8%B0%ED%83%90%EC%A7%80.ipynb)
  - [ Teachable Machine ](https://github.com/jiwon0629/TeachableMachine)
  - [ Web App ](https://github.com/jiwon0629/webApp02)
  - [ 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
