@@ -47,7 +47,7 @@
  - [ 🖥️ Web App ](https://github.com/jiwon0629/webApp02)
  - [ 📦 택배 상자 AI 객체 인식 프로그램 ](https://github.com/jiwon0629/AI_Box)
  - [ 🛡️ SafeScope: 산업안전 위험 예측 웹 프로그램 ](https://github.com/Kim-hanyoung/safety-risk-detection) (2025.08.28. ~ 2025.09.12.)
- - [ 마지막 프로젝트: 가스누출 예측 프로그램 ](https://github.com/juusingsing/2Project) (2025.09.16. ~ 2025.10.17.)
+ - [ 🛡️ Gas Shut-off: 가스 누출 분석 자동 차단 프로그램 ](https://github.com/juusingsing/2Project) (2025.09.16. ~ 2025.10.17.)
 
 ## 🤖 Robot
  - [ 🤖 yolov5를 이용한 Native App - 동작 ](https://github.com/jiwon0629/NativeAppYoloCustom)
