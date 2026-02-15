@@ -28,7 +28,7 @@
  - [ 📘 토익 공부 ](https://github.com/jiwon0629/English)
  - [ 📘 SQLD ](https://github.com/jiwon0629/sqld)
 
-## ✍️ Study
+## ✍️ Study_Work
  - [ 📘 Docker ](https://github.com/jiwon0629/study_work)
    
 
