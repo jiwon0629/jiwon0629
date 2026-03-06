@@ -29,7 +29,7 @@
  - [ 📘 SQLD ](https://github.com/jiwon0629/sqld)
 
 ## ✍️ Study_Work
- - [ 📘 Docker ](https://github.com/jiwon0629/study_work)
+ - [ 📘 회사 공부 ](https://github.com/jiwon0629/study_work)
    
 
 ## 📂 Project  
