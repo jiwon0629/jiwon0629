@@ -30,7 +30,7 @@
 
 ## ✍️ Study_Work
  - [ 📘 회사 공부 ](https://github.com/jiwon0629/study_work)
-   
+ - [ svelte ](https://github.com/jiwon0629/svelte_test)   
 
 ## 📂 Project  
  - [ 📱 Flutter를 이용한 날씨 앱 ](https://github.com/jiwon0629/weatherApp)(2023.06 ~ 2023.07)  
